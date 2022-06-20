@@ -1,0 +1,138 @@
+{ "ADS":
+    {
+  
+      "banner_type":"yandex",
+      "inter_type":"admob",
+      "native_type":"yandex",
+      "reward_type": "admob",
+  
+      "Active_Cpa":true,
+      "Cpa_Image":"admob",
+      "Cpa_Url":"yandex",
+      
+      "ironsource_id" : "11c7e1165",
+      "unity_id":"4292105",
+  
+      "appodeal_app_key" : "6183fe1ebbf93709010652b765ea2c232fe3ab59d8b5f27a",
+  
+  
+  
+      "banner_yandex":"adf-279013/966631",
+      "interstitial_yandex":"adf-279013/966533",
+      "native_yandex":"adf-279013/966633",
+      "rewarde_yandex":"adf-279013/966487",
+  
+      "banner_admob":"ca-app-pub56099942",
+      "interstitial_admob":"ca-app-pub-567",
+      "native_admob":"ca-app-pub-4567",
+      "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
+
+      
+      "applovin_banner":"ca-app-pub56099942",
+      "applovin_interstitial":"ca-app-pub-567",
+      "applovin_reward":"ca-app-pub-4567",
+      "applovin_mrec":"ca-app-pub-3940256099942544/5354046379"
+  
+    },
+    "guideData": [
+    {
+      "image": "https://ia803102.us.archive.org/5/items/wallpaper_202106/dddss.jpg",
+      "title": "Lorem 1",
+      "text1": "11111111111This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+      "text2": "somthing here",
+      "likesNumbers": "1",
+      "VIP": false,
+      "show button": false,
+      "button URL": "com.kiloo.subwaysurf"
+    },  {
+      "image": "https://ia803102.us.archive.org/5/items/wallpaper_202106/dddss.jpg",
+      "title": "Lorem 2",
+      "text1": "2222222222222222This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+      "text2": "somthing here",
+      "likesNumbers": "2",
+      "VIP": true,
+      "show button": true,
+      "button URL": "com.kiloo.subwaysurf"
+    },  {
+      "image": "https://ia803102.us.archive.org/5/items/wallpaper_202106/dddss.jpg",
+      "title": "Lorem 3",
+      "text1": "33333333333333333This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+      "text2": "somthing here",
+      "likesNumbers": "3",
+      "VIP": true,
+      "show button": false,
+      "button URL": "com.kiloo.subwaysurf"
+    },  {
+      "image": "https://ia803102.us.archive.org/5/items/wallpaper_202106/dddss.jpg",
+      "title": "Lorem 4",
+      "text1": "444444444444444444This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+      "text2": "somthing here",
+      "likesNumbers": "4",
+      "VIP": false,
+      "show button": true,
+      "button URL": "com.kiloo.subwaysurf"
+    },  {
+      "image": "https://ia803102.us.archive.org/5/items/wallpaper_202106/dddss.jpg",
+      "title": "Lorem 5",
+      "text1": "5555555555555This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+      "text2": "somthing here",
+      "likesNumbers": "5",
+      "VIP": true,
+      "show button": true,
+      "button URL": "com.kiloo.subwaysurf"
+    },  {
+      "image": "https://ia803102.us.archive.org/5/items/wallpaper_202106/dddss.jpg",
+      "title": "Lorem 6",
+      "text1": "66666666666666666666This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+      "text2": "somthing here",
+      "likesNumbers": "6",
+      "VIP": true,
+      "show button": true,
+      "button URL": "com.kiloo.subwaysurf"
+    }
+  ],"apps": [
+    {
+      "icon": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag=s180",
+      "Url": "https://www.youtube.com/watch?v=u0TZpzmBIXs",
+      "name": "8 Ball Pool"
+    },
+    {
+      "icon": "https://play-lh.googleusercontent.com/yk0P5tfGO-kznJfx_xUY-Y3ZqWum-XvedOODl7NQQ6VOhgrw7ZdRqwnokQFSruiLBlY=s180",
+      "Url": "https://www.youtube.com/watch?v=u0TZpzmBIXs",
+      "name": "Rocket Arena Car Extreme"
+    },
+    {
+      "icon": "https://play-lh.googleusercontent.com/5YcjfMOalHXldfeBbm66qqVzb7kiLyN-1t3Ann2DO0fQQ0lZ-Jv0YoIS1whuYcZYZfk=s180",
+      "Url": "https://www.youtube.com/watch?v=u0TZpzmBIXs",
+      "name": "Rebel Racing"
+    },
+    {
+      "icon": "https://play-lh.googleusercontent.com/YQjofA1gAqJ4RrRpoIQjHfNP4or9lCCn7Yc4TvuaQB1_maaHdts2KUpu00qHA8WyYrY=s180",
+      "Url": "https://www.youtube.com/watch?v=u0TZpzmBIXs",
+      "name": "Stickman Master: Offline Games"
+    },
+    {
+      "icon": "https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM=s180",
+      "Url": "https://www.youtube.com/watch?v=u0TZpzmBIXs",
+      "name": "Spotify"
+    },
+    {
+      "icon": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs=s180",
+      "Url": "https://www.youtube.com/watch?v=u0TZpzmBIXs",
+      "name": "Hill Climb Racing"
+    },
+    {
+      "icon": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec=s180",
+      "Url": "https://www.youtube.com/watch?v=u0TZpzmBIXs",
+      "name": "Among Us"
+    },
+    {
+      "icon": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec=s180",
+      "Url": "https://www.youtube.com/watch?v=u0TZpzmBIXs",
+      "name": "Among Us"
+    }
+  ]
+  }
+  
+  
+  
