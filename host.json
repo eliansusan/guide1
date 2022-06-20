@@ -1,10 +1,10 @@
 { "ADS":
     {
   
-      "banner_type":"admob",
+      "banner_type":"yandex",
       "inter_type":"admob",
-      "native_type":"admob",
-      "reward_type": "admob",
+      "native_type":"ironsource",
+      "reward_type": "applovin",
   
       "Active_Cpa":true,
       "Cpa_Image":"admob",
