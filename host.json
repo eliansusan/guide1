@@ -1,10 +1,10 @@
 { "ADS":
     {
   
-      "banner_type":"ironsource",
+      "banner_type":"applovin",
       "inter_type":"applovin",
-      "native_type":"admob",
-      "reward_type": "yandex",
+      "native_type":"applovin",
+      "reward_type": "applovin",
   
       "Active_Cpa":true,
       "Cpa_Image":"admob",
@@ -28,10 +28,10 @@
       "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
 
       
-      "applovin_banner":"ca-app-pub56099942",
-      "applovin_interstitial":"ca-app-pub-567",
-      "applovin_reward":"ca-app-pub-4567",
-      "applovin_mrec":"ca-app-pub-3940256099942544/5354046379"
+      "applovin_banner":"8c98e01245aab703",
+      "applovin_interstitial":"b3852d4ac106801f",
+      "applovin_reward":"6a4f4c1e9d72f9aa",
+      "applovin_native":"c1c95e66b4dc9218"
   
     },
     "guideData": [
